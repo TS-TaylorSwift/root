@@ -7,7 +7,7 @@ compiler: clang
 cache:
   ccache: true
 
-# Do not build our sync branch123.
+# Do not build our sync branch.
 branches:
   only:
     - master
